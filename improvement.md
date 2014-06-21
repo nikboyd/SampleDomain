@@ -1,6 +1,6 @@
 ## Improvement
 
-<img src="http://nikboyd.github.io/SampleDomain/improvement.svg" />
+<img src="https://rawgithub.com/nikboyd/SampleDomain/master/improvement.svg" />
 
 In the context of this [Model](model.md), an [Improvement](improvement.md)
 
