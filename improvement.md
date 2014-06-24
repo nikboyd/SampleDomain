@@ -1,6 +1,8 @@
 ## Improvement
 
-<img src="https://rawgithub.com/nikboyd/SampleDomain/master/improvement.svg" style="float: right; margin: 20px" />
+<div style="float: right; margin: 20px">
+<img src="https://rawgithub.com/nikboyd/SampleDomain/master/improvement.svg" />
+</div>
 
 In the context of this [Model](model.md), an [Improvement](improvement.md)
 
