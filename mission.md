@@ -1,10 +1,10 @@
 ## Mission
 
-<img src="https://rawgithub.com/nikboyd/SampleDomain/master/mission.svg" align="right"/>
+<img src="https://github.com/nikboyd/sample-domain/raw/master/images/mission.svg" align="right"/>
 
-In the context of this [Model](model.md), [mission](https://github.com/nikboyd/SampleDomain/blob/master/mission.md)
+In the context of this [Model](model.md), [mission](https://github.com/nikboyd/sample-domain/blob/master/mission.md)
 
-* <i>describes</i> [intended effects](https://github.com/nikboyd/SampleDomain/blob/master/intended.effect.md) of [business](https://github.com/nikboyd/SampleDomain/blob/master/business.md)
+* <i>describes</i> [intended effects](https://github.com/nikboyd/sample-domain/blob/master/intended.effect.md) of [business](https://github.com/nikboyd/sample-domain/blob/master/business.md)
 
 ### Discussion
 

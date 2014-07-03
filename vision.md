@@ -1,10 +1,10 @@
 ## Vision
 
-<img src="https://rawgithub.com/nikboyd/SampleDomain/master/vision.svg" align="right"/>
+<img src="https://github.com/nikboyd/sample-domain/raw/master/images/vision.svg" align="right"/>
 
-In the context of this [Model](model.md), [vision](https://github.com/nikboyd/SampleDomain/blob/master/vision.md)
+In the context of this [Model](model.md), [vision](https://github.com/nikboyd/sample-domain/blob/master/vision.md)
 
-* <i>describes</i> [intended outcomes](https://github.com/nikboyd/SampleDomain/blob/master/intended.outcome.md) of [business](https://github.com/nikboyd/SampleDomain/blob/master/business.md)
+* <i>describes</i> [intended outcomes](https://github.com/nikboyd/sample-domain/blob/master/intended.outcome.md) of [business](https://github.com/nikboyd/sample-domain/blob/master/business.md)
 
 ### Discussion
 
