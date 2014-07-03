@@ -1,6 +1,6 @@
 ## Value
 
-<img src="https://github.com/nikboyd/sample-domain/raw/master/images/value.svg" align="right"/>
+<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/value.svg" align="right"/>
 
 In the context of this [Model](model.md), [value](https://github.com/nikboyd/sample-domain/blob/master/value.md)
 

@@ -1,6 +1,6 @@
 ## Feature
 
-<img src="https://github.com/nikboyd/sample-domain/raw/master/images/feature.svg" align="right"/>
+<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/feature.svg" align="right"/>
 
 In the context of this [Model](model.md), [feature](https://github.com/nikboyd/sample-domain/blob/master/feature.md)
 

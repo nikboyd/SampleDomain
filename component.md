@@ -1,6 +1,6 @@
 ## Component
 
-<img src="https://github.com/nikboyd/sample-domain/raw/master/images/component.svg" align="right"/>
+<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/component.svg" align="right"/>
 
 In the context of this [Model](model.md), [component](https://github.com/nikboyd/sample-domain/blob/master/component.md)
 

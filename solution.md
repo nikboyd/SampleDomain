@@ -1,6 +1,6 @@
 ## Solution
 
-<img src="https://github.com/nikboyd/sample-domain/raw/master/images/solution.svg" align="right"/>
+<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/solution.svg" align="right"/>
 
 In the context of this [Model](model.md), [solution](https://github.com/nikboyd/sample-domain/blob/master/solution.md)
 

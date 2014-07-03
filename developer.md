@@ -1,6 +1,6 @@
 ## Developer
 
-<img src="https://github.com/nikboyd/sample-domain/raw/master/images/developer.svg" align="right"/>
+<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/developer.svg" align="right"/>
 
 In the context of this [Model](model.md), [developer](https://github.com/nikboyd/sample-domain/blob/master/developer.md)
 

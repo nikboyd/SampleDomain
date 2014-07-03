@@ -1,6 +1,6 @@
 ## Requestor
 
-<img src="https://github.com/nikboyd/sample-domain/raw/master/images/requestor.svg" align="right"/>
+<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/requestor.svg" align="right"/>
 
 In the context of this [Model](model.md), [requestor](https://github.com/nikboyd/sample-domain/blob/master/requestor.md)
 

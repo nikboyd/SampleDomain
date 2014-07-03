@@ -1,6 +1,6 @@
 ## Vision
 
-<img src="https://github.com/nikboyd/sample-domain/raw/master/images/vision.svg" align="right"/>
+<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/vision.svg" align="right"/>
 
 In the context of this [Model](model.md), [vision](https://github.com/nikboyd/sample-domain/blob/master/vision.md)
 

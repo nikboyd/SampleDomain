@@ -1,6 +1,6 @@
 ## Interface
 
-<img src="https://github.com/nikboyd/sample-domain/raw/master/images/interface.svg" align="right"/>
+<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/interface.svg" align="right"/>
 
 In the context of this [Model](model.md), [interface](https://github.com/nikboyd/sample-domain/blob/master/interface.md)
 

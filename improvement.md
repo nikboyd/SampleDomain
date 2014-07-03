@@ -1,6 +1,6 @@
 ## Improvement
 
-<img src="https://github.com/nikboyd/sample-domain/raw/master/images/improvement.svg" align="right"/>
+<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/improvement.svg" align="right"/>
 
 In the context of this [Model](model.md), [improvement](https://github.com/nikboyd/sample-domain/blob/master/improvement.md)
 

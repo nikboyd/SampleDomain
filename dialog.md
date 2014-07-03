@@ -1,6 +1,6 @@
 ## Dialog
 
-<img src="https://github.com/nikboyd/sample-domain/raw/master/images/dialog.svg" align="right"/>
+<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/dialog.svg" align="right"/>
 
 In the context of this [Model](model.md), [dialog](https://github.com/nikboyd/sample-domain/blob/master/dialog.md)
 
