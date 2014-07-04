@@ -19,4 +19,4 @@ presenting information, whether using a desktop computer, a laptop computer, or 
 The [dialogs](https://github.com/nikboyd/sample-domain/blob/master/dialog.md) engage users in conversations (of a kind) for collecting, manipulating, and presenting information.
 
 
-<h3 align="center"><b>&sect; &sect; &sect;</b></h3>
+<h4 align="center"><b>&sect; &sect; &sect;</b></h4>

@@ -25,4 +25,4 @@ So, a [business](https://github.com/nikboyd/sample-domain/blob/master/business.m
 (especially by using information systems) through the definition of measurable changes in the levels of the
 qualities about which it is most concerned.<br/><br/>
 
-<h3 align="center"><b>&sect; &sect; &sect;</b></h3>
+<h4 align="center"><b>&sect; &sect; &sect;</b></h4>

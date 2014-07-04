@@ -16,4 +16,4 @@ A [developer](https://github.com/nikboyd/sample-domain/blob/master/developer.md)
 Sometimes their responsibilities (and thus their interests) are combined in a single person or role within an organization.
 
 
-<h3 align="center"><b>&sect; &sect; &sect;</b></h3>
+<h4 align="center"><b>&sect; &sect; &sect;</b></h4>

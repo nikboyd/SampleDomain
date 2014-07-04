@@ -21,4 +21,4 @@ of the [business](https://github.com/nikboyd/sample-domain/blob/master/business.
 through some software [solution](https://github.com/nikboyd/sample-domain/blob/master/solution.md)(s).
 
 
-<h3 align="center"><b>&sect; &sect; &sect;</b></h3>
+<h4 align="center"><b>&sect; &sect; &sect;</b></h4>

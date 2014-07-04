@@ -13,4 +13,4 @@ There are several kinds of [governors](https://github.com/nikboyd/sample-domain/
 and establishing boundaries and limits.
 
 
-<h3 align="center"><b>&sect; &sect; &sect;</b></h3>
+<h4 align="center"><b>&sect; &sect; &sect;</b></h4>

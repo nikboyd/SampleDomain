@@ -19,4 +19,4 @@ In some cases, a [business](https://github.com/nikboyd/sample-domain/blob/master
 to automate some the associated processes, or to monitor them and collect measurements.
 
 
-<h3 align="center"><b>&sect; &sect; &sect;</b></h3>
+<h4 align="center"><b>&sect; &sect; &sect;</b></h4>

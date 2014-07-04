@@ -17,4 +17,4 @@ They also ensure that the conduct of [business](https://github.com/nikboyd/sampl
 esp. with its [mission](https://github.com/nikboyd/sample-domain/blob/master/mission.md) and [vision](https://github.com/nikboyd/sample-domain/blob/master/vision.md).
 
 
-<h3 align="center"><b>&sect; &sect; &sect;</b></h3>
+<h4 align="center"><b>&sect; &sect; &sect;</b></h4>

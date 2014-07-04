@@ -10,4 +10,4 @@ In the context of this [Model](model.md), [mission](https://github.com/nikboyd/s
 
 
 
-<h3 align="center"><b>&sect; &sect; &sect;</b></h3>
+<h4 align="center"><b>&sect; &sect; &sect;</b></h4>
