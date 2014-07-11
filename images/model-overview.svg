@@ -1,4 +1,6 @@
-<svg width="15cm" height="16cm" viewbox="-62 18 763 866" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="800" height="900" viewbox="0 0 800 1000" preserveAspectRatio="xMidYMid meet"
+	xmlns="http://www.w3.org/2000/svg" 
+	xmlns:xlink="http://www.w3.org/1999/xlink">
   <a xlink:href="policy.html"><g>
     <rect style="fill: #e6e6fa" x="40" y="120" width="500" height="120" />
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="120" width="500" height="120" />
