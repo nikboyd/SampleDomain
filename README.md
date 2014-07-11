@@ -33,6 +33,6 @@ diagram shows selected, representative portions of such a natural conceptual
 model. A key to the notation used in this model diagram can be found in
 <a href="http://educery.com/papers/models/requirements.htm#model.diagram#notation">Appendix A.</a> 
 Descriptions of the essential model
-elements can be found in the linked pages, both through the foregoing textual hyperlinks.
+elements can be found in the linked pages through the foregoing textual hyperlinks.
 
 <img src="https://rawgithub.com/nikboyd/sample-domain/master/images/model-overview.svg" align="center" />
