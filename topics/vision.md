@@ -4,7 +4,7 @@
 
 In the context of this [model](../README.md), [vision](https://github.com/nikboyd/sample-domain/blob/master/topics/vision.md)
 
-* <i>describes</i> [intended outcomes](https://github.com/nikboyd/sample-domain/blob/master/topics/intended.outcome.md) of [business](https://github.com/nikboyd/sample-domain/blob/master/topics/business.md)
+* <i>describes</i> [outcomes](https://github.com/nikboyd/sample-domain/blob/master/topics/outcome.md) of [business](https://github.com/nikboyd/sample-domain/blob/master/topics/business.md)
 
 ### Discussion
 
@@ -14,8 +14,8 @@ and potential outcome(s) with respect to that purpose and those concerns. By rem
 As with [mission](https://github.com/nikboyd/sample-domain/blob/master/topics/mission.md) statements, a [vision](https://github.com/nikboyd/sample-domain/blob/master/topics/vision.md) statement needs to focus on:
 
 
-* _Ends versus Means._ <br/>An ends statement describes what difference the organization will make for its beneficiaries in the outside world, rather than merely describing what staff will be doing (its means) to effect those ends.<br/>
-* Effects versus Efforts. <br/>A well-formed ends statement describes the results and effects to be achieved by staff, rather than their efforts and activities.
+* _Ends versus Means._ <br/>An ends statement describes what difference the organization will make for its beneficiaries in the outside world, rather than merely describing what staff will be doing (its means) to effect those ends.
+* _Effects versus Efforts._ <br/>A well-formed ends statement describes the results and effects to be achieved by staff, rather than their efforts and activities.
 
 
 Hence, an ends statement should not include verbs, which are indicative of activities (efforts) rather than effects.

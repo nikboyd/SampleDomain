@@ -4,7 +4,7 @@
 
 In the context of this [model](../README.md), [mission](https://github.com/nikboyd/sample-domain/blob/master/topics/mission.md)
 
-* <i>describes</i> [intended effects](https://github.com/nikboyd/sample-domain/blob/master/topics/intended.effect.md) of [business](https://github.com/nikboyd/sample-domain/blob/master/topics/business.md)
+* <i>describes</i> [effects](https://github.com/nikboyd/sample-domain/blob/master/topics/effect.md) of [business](https://github.com/nikboyd/sample-domain/blob/master/topics/business.md)
 
 ### Discussion
 
