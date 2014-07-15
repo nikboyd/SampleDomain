@@ -14,7 +14,7 @@ and potential outcome(s) with respect to that purpose and those concerns. By rem
 As with [mission](https://github.com/nikboyd/sample-domain/blob/master/topics/mission.md) statements, a [vision](https://github.com/nikboyd/sample-domain/blob/master/topics/vision.md) statement needs to focus on:
 
 
-* Ends versus Means. <br/>An ends statement describes what difference the organization will make for its beneficiaries in the outside world, rather than merely describing what staff will be doing (its means) to effect those ends.
+* __Ends versus Means.__ <br/>An ends statement describes what difference the organization will make for its beneficiaries in the outside world, rather than merely describing what staff will be doing (its means) to effect those ends.
 * Effects versus Efforts. <br/>A well-formed ends statement describes the results and effects to be achieved by staff, rather than their efforts and activities.
 
 
