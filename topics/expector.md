@@ -2,21 +2,57 @@
 
 <img src="https://rawgithub.com/nikboyd/sample-domain/master/images/expector.svg" align="right"/>
 
-In the context of this [model](../README.md), [expector](https://github.com/nikboyd/sample-domain/blob/master/topics/expector.md)
+In the context of this [model](../README.md), an [Expector][expector]
 
-* <i>expects</i> [improvements](https://github.com/nikboyd/sample-domain/blob/master/topics/improvement.md) in [activity](https://github.com/nikboyd/sample-domain/blob/master/topics/activity.md) for [business](https://github.com/nikboyd/sample-domain/blob/master/topics/business.md)
-* <i>performs</i> [activities](https://github.com/nikboyd/sample-domain/blob/master/topics/activity.md) for [business](https://github.com/nikboyd/sample-domain/blob/master/topics/business.md)
-* <i>uses</i> [features](https://github.com/nikboyd/sample-domain/blob/master/topics/feature.md) of [solution](https://github.com/nikboyd/sample-domain/blob/master/topics/solution.md)
-* <i>requests</i> [actions](https://github.com/nikboyd/sample-domain/blob/master/topics/action.md) of [components](https://github.com/nikboyd/sample-domain/blob/master/topics/component.md) through [dialogs](https://github.com/nikboyd/sample-domain/blob/master/topics/dialog.md)
-* <i>requests</i> [values](https://github.com/nikboyd/sample-domain/blob/master/topics/value.md) from [components](https://github.com/nikboyd/sample-domain/blob/master/topics/component.md) through [dialogs](https://github.com/nikboyd/sample-domain/blob/master/topics/dialog.md)
-* <i>serves</i> [business](https://github.com/nikboyd/sample-domain/blob/master/topics/business.md) as [source](https://github.com/nikboyd/sample-domain/blob/master/topics/source.md) of [features](https://github.com/nikboyd/sample-domain/blob/master/topics/feature.md)
+* <i>expects</i> some [Improvements][improvements] in an [Activity][activity] for a [Business][business]
+* <i>performs</i> some [Activity][activity] for a [Business][business]
+* <i>uses</i> some [Features][features] of a [Solution][solution]
+* <i>requests</i> some [Actions][actions] of some [Components][components] through some [Dialogs][dialogs]
+* <i>requests</i> some [Value][value] from some [Components][components] through some [Dialogs][dialogs]
+* <i>serves</i> a [Business][business] as a [Source][source] of some [Features][features]
 
 ### Discussion
 
-There are potentially several kinds of [expectors](https://github.com/nikboyd/sample-domain/blob/master/topics/expector.md).
-An [expector](https://github.com/nikboyd/sample-domain/blob/master/topics/expector.md) generally expects a software [solution](https://github.com/nikboyd/sample-domain/blob/master/topics/solution.md) to simplify, permit, and improve the conduct of some [business](https://github.com/nikboyd/sample-domain/blob/master/topics/business.md) [activity](https://github.com/nikboyd/sample-domain/blob/master/topics/activity.md)(s).
-In some cases, a [business](https://github.com/nikboyd/sample-domain/blob/master/topics/business.md) [activity](https://github.com/nikboyd/sample-domain/blob/master/topics/activity.md) might not even be allowed, or might not be affordable without a software [solution](https://github.com/nikboyd/sample-domain/blob/master/topics/solution.md)
+There are potentially several kinds of [Expectors][expector].
+An [Expector][expector] generally expects a software [Solution][solution] to simplify, permit, and improve the conduct of some [Business][business] [Activity][activity](s).
+In some cases, a [Business][business] [Activity][activity] might not even be allowed, or might not be affordable without a software [Solution][solution]
 to automate some the associated processes, or to monitor them and collect measurements.
 
 
 <h4 align="center"><b>&sect; &sect; &sect;</b></h4>
+
+[activity]: activity.md
+[activities]: activity.md
+[business]: business.md
+[businesses]: business.md
+[component]: component.md
+[components]: component.md
+[developer]: developer.md
+[developers]: developer.md
+[dialog]: dialog.md
+[dialogs]: dialog.md
+[expector]: expector.md
+[expectors]: expector.md
+[feature]: feature.md
+[features]: feature.md
+[governor]: governor.md
+[governors]: governor.md
+[improvement]: improvement.md
+[improvements]: improvement.md
+[interface]: interface.md
+[interfaces]: interface.md
+[mission]: mission.md
+[missions]: mission.md
+[requestor]: requestor.md
+[requestors]: requestor.md
+[solution]: solution.md
+[solutions]: solution.md
+[source]: source.md
+[sources]: source.md
+[value]: value.md
+[values]: value.md
+[vision]: vision.md
+[visions]: vision.md
+
+[valuable]: value.md
+[quality]: https://educery.dev/papers/modeling/quality-alignment/#business-quality-inventory
