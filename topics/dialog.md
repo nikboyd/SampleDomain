@@ -3,7 +3,7 @@
 <img src="../images/dialog.svg" align="right"/>
 
 
-In the context of this [model](../README.md), a [Dialog][dialog]
+In the context of this [model](../README.md#overview), a [Dialog][dialog]
 
 * <i>reveals</i> some [Features][features] through some [Interfaces][interfaces]
 

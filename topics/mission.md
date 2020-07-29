@@ -3,7 +3,7 @@
 <img src="../images/mission.svg" align="right"/>
 
 
-In the context of this [model](../README.md), a [Mission][mission]
+In the context of this [model](../README.md#overview), a [Mission][mission]
 
 * <i>describes</i> some [Effects][effects] of a [Business][business]
 

@@ -3,7 +3,7 @@
 <img src="../images/feature.svg" align="right"/>
 
 
-In the context of this [model](../README.md), a [Feature][feature]
+In the context of this [model](../README.md#overview), a [Feature][feature]
 
 * <i>improves</i> some [Activity][activity] for a [Business][business]
 * <i>solves</i> some [Problems][problems] for a [Business][business]

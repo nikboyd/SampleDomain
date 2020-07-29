@@ -3,7 +3,7 @@
 <img src="../images/source.svg" align="right"/>
 
 
-In the context of this [model](../README.md), a [Source][source]
+In the context of this [model](../README.md#overview), a [Source][source]
 
 * <i>describes</i> some [Features][features] for some [Developers][developers]
 

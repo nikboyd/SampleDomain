@@ -3,7 +3,7 @@
 <img src="../images/governor.svg" align="right"/>
 
 
-In the context of this [model](../README.md), a [Governor][governor]
+In the context of this [model](../README.md#overview), a [Governor][governor]
 
 * <i>governs</i> a [Business][business]
 * <i>serves</i> a [Business][business] as a [Source][source] of some [Vision][vision] or [Mission][mission] or [Value][value]

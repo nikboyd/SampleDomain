@@ -3,7 +3,7 @@
 <img src="../images/solution.svg" align="right"/>
 
 
-In the context of this [model](../README.md), a [Solution][solution]
+In the context of this [model](../README.md#overview), a [Solution][solution]
 
 * <i>exhibits</i> some [Features][features]
 * <i>has</i> some [Components][components]

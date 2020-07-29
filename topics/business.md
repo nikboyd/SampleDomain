@@ -3,7 +3,7 @@
 <img src="../images/business.svg" align="right"/>
 
 
-In the context of this [model](../README.md), a [Business][business]
+In the context of this [model](../README.md#overview), a [Business][business]
 
 * <i>creates</i> a [Value][value] for some [Constituents][constituents]
 

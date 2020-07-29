@@ -3,7 +3,7 @@
 <img src="../images/value.svg" align="right"/>
 
 
-In the context of this [model](../README.md), a [Value][value]
+In the context of this [model](../README.md#overview), a [Value][value]
 
 * <i>measures</i> a [Quality][quality] of a [Concern][concern] for a [Business][business]
 * <i>measures</i> a [Quantity][quantity] of a [Money][money]

@@ -3,7 +3,7 @@
 <img src="../images/activity.svg" align="right"/>
 
 
-In the context of this [model](../README.md), an [Activity][activity]
+In the context of this [model](../README.md#overview), an [Activity][activity]
 
 * <i>produces</i> a [Value][value] for a [Business][business]
 * <i>conserves</i> a [Value][value] for a [Business][business]

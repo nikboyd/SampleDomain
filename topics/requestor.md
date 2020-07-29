@@ -3,7 +3,7 @@
 <img src="../images/requestor.svg" align="right"/>
 
 
-In the context of this [model](../README.md), a [Requestor][requestor]
+In the context of this [model](../README.md#overview), a [Requestor][requestor]
 
 * <i>requests</i> some [Improvements][improvements] in an [Activity][activity]
 * <i>oversees</i> some [Activity][activity] for a [Business][business]

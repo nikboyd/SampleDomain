@@ -3,7 +3,7 @@
 <img src="../images/expector.svg" align="right"/>
 
 
-In the context of this [model](../README.md), an [Expector][expector]
+In the context of this [model](../README.md#overview), an [Expector][expector]
 
 * <i>expects</i> some [Improvements][improvements] in an [Activity][activity] for a [Business][business]
 * <i>performs</i> some [Activity][activity] for a [Business][business]

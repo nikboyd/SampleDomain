@@ -3,7 +3,7 @@
 <img src="../images/developer.svg" align="right"/>
 
 
-In the context of this [model](../README.md), a [Developer][developer]
+In the context of this [model](../README.md#overview), a [Developer][developer]
 
 * <i>designs</i> a [Component][component] or [Dialog][dialog] or [Interface][interface]
 * <i>builds</i> a [Component][component] or [Dialog][dialog] or [Interface][interface]

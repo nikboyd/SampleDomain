@@ -3,7 +3,7 @@
 <img src="../images/vision.svg" align="right"/>
 
 
-In the context of this [model](../README.md), a [Vision][vision]
+In the context of this [model](../README.md#overview), a [Vision][vision]
 
 * <i>describes</i> some [Outcomes][outcomes] of a [Business][business]
 

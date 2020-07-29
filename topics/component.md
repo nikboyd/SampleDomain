@@ -3,7 +3,7 @@
 <img src="../images/component.svg" align="right"/>
 
 
-In the context of this [model](../README.md), a [Component][component]
+In the context of this [model](../README.md#overview), a [Component][component]
 
 * <i>surfaces</i> some [Dialogs][dialogs]
 * <i>performs</i> some [Actions][actions]

@@ -3,7 +3,7 @@
 <img src="../images/improvement.svg" align="right"/>
 
 
-In the context of this [model](../README.md), an [Improvement][improvement]
+In the context of this [model](../README.md#overview), an [Improvement][improvement]
 
 * a [Feature][feature] <i>improves</i> some [Activity][activity] for a [Business][business]
 

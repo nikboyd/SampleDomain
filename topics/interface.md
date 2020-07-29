@@ -3,7 +3,7 @@
 <img src="../images/interface.svg" align="right"/>
 
 
-In the context of this [model](../README.md), an [Interface][interface]
+In the context of this [model](../README.md#overview), an [Interface][interface]
 
 * <i>exposes</i> a [Model information][model.information]
 
