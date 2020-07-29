@@ -1,6 +1,7 @@
 ## Dialog
 
-<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/dialog.svg" align="right"/>
+<img src="../images/dialog.svg" align="right"/>
+
 
 In the context of this [model](../README.md), a [Dialog][dialog]
 

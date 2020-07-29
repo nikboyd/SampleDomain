@@ -1,6 +1,7 @@
 ## Value
 
-<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/value.svg" align="right"/>
+<img src="../images/value.svg" align="right"/>
+
 
 In the context of this [model](../README.md), a [Value][value]
 

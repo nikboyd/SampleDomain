@@ -1,6 +1,7 @@
 ## Activity
 
-<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/activity.svg" align="right"/>
+<img src="../images/activity.svg" align="right"/>
+
 
 In the context of this [model](../README.md), an [Activity][activity]
 

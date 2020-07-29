@@ -1,6 +1,7 @@
 ## Developer
 
-<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/developer.svg" align="right"/>
+<img src="../images/developer.svg" align="right"/>
+
 
 In the context of this [model](../README.md), a [Developer][developer]
 

@@ -1,6 +1,7 @@
 ## Business
 
-<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/business.svg" align="right"/>
+<img src="../images/business.svg" align="right"/>
+
 
 In the context of this [model](../README.md), a [Business][business]
 

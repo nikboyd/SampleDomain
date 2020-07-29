@@ -1,6 +1,7 @@
 ## Expector
 
-<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/expector.svg" align="right"/>
+<img src="../images/expector.svg" align="right"/>
+
 
 In the context of this [model](../README.md), an [Expector][expector]
 

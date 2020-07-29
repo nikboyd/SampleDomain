@@ -1,6 +1,7 @@
 ## Solution
 
-<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/solution.svg" align="right"/>
+<img src="../images/solution.svg" align="right"/>
+
 
 In the context of this [model](../README.md), a [Solution][solution]
 

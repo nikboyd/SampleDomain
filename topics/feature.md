@@ -1,6 +1,7 @@
 ## Feature
 
-<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/feature.svg" align="right"/>
+<img src="../images/feature.svg" align="right"/>
+
 
 In the context of this [model](../README.md), a [Feature][feature]
 

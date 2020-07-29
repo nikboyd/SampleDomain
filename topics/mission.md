@@ -1,6 +1,7 @@
 ## Mission
 
-<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/mission.svg" align="right"/>
+<img src="../images/mission.svg" align="right"/>
+
 
 In the context of this [model](../README.md), a [Mission][mission]
 

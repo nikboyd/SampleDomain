@@ -1,6 +1,7 @@
 ## Component
 
-<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/component.svg" align="right"/>
+<img src="../images/component.svg" align="right"/>
+
 
 In the context of this [model](../README.md), a [Component][component]
 

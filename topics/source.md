@@ -1,6 +1,7 @@
 ## Source
 
-<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/source.svg" align="right"/>
+<img src="../images/source.svg" align="right"/>
+
 
 In the context of this [model](../README.md), a [Source][source]
 

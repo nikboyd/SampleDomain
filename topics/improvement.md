@@ -1,6 +1,7 @@
 ## Improvement
 
-<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/improvement.svg" align="right"/>
+<img src="../images/improvement.svg" align="right"/>
+
 
 In the context of this [model](../README.md), an [Improvement][improvement]
 

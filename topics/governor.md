@@ -1,6 +1,7 @@
 ## Governor
 
-<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/governor.svg" align="right"/>
+<img src="../images/governor.svg" align="right"/>
+
 
 In the context of this [model](../README.md), a [Governor][governor]
 

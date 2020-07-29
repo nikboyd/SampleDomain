@@ -1,6 +1,7 @@
 ## Requestor
 
-<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/requestor.svg" align="right"/>
+<img src="../images/requestor.svg" align="right"/>
+
 
 In the context of this [model](../README.md), a [Requestor][requestor]
 

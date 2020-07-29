@@ -1,6 +1,7 @@
 ## Interface
 
-<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/interface.svg" align="right"/>
+<img src="../images/interface.svg" align="right"/>
+
 
 In the context of this [model](../README.md), an [Interface][interface]
 

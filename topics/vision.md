@@ -1,6 +1,7 @@
 ## Vision
 
-<img src="https://rawgithub.com/nikboyd/sample-domain/master/images/vision.svg" align="right"/>
+<img src="../images/vision.svg" align="right"/>
+
 
 In the context of this [model](../README.md), a [Vision][vision]
 
